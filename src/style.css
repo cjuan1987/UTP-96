@@ -1,0 +1,26 @@
+body{
+    width: 1200px;
+    background-color: aqua;
+}
+.header{
+    background-color:darkgreen;
+}
+.sesion1{
+    display: flex;
+    align-items: center;
+    height: 200px;
+    
+}
+.titulo-principal, .contenedor-menu{
+  width: 50%;
+}
+
+.menu-principal{
+    display: flex;
+  list-style: none;
+  justify-content: space-evenly;
+
+}
+.menu-principal__item{
+    display: inline;
+}
