@@ -5,9 +5,6 @@
 [1128/231927.921:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
 =======
 [1128/113016.259:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
-<<<<<<< HEAD
 [1128/193628.047:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
 >>>>>>> parent of f9823cc... imagenes sección 2
 [1129/003344.504:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
-=======
->>>>>>> parent of 2940281... modificacion

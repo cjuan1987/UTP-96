@@ -1,6 +1,8 @@
 body{
     width: 1200px;
-    background-color: aqua;
+    background-color:azure;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 5%;
 }
 .header{
     background-color:darkgreen;
@@ -8,19 +10,29 @@ body{
 .sesion1{
     display: flex;
     align-items: center;
-    height: 200px;
+    height: 100px;
     
 }
 .titulo-principal, .contenedor-menu{
+    font-size: 20px;
   width: 50%;
 }
 
 .menu-principal{
+    font-size: 25px;
     display: flex;
   list-style: none;
   justify-content: space-evenly;
 
 }
 .menu-principal__item{
+    margin: 5%;
+    width: 25%;
     display: inline;
+    text-align: center;
+    text-decoration: none;
+}
+.baner{
+    width:100% ;
+    height: 150px;
 }
